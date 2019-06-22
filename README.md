@@ -1,9 +1,9 @@
-<p align="center"><img alt="涸辙遗鲋旦暮成枯人而无志与彼何殊" src=""></p><h2 align="center">
-涸辙遗鲋旦暮成枯人而无志与彼何殊
+<p align="center"><img alt="码农路上" src=""></p><h2 align="center">
+码农路上
 </h2>
 
-<h4 align="center"></h4>
-<p align="center"><a title="涸辙遗鲋旦暮成枯人而无志与彼何殊" target="_blank" href="https://github.com/289306290/solo-blog"><img src="https://img.shields.io/github/last-commit/289306290/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">涸辙遗鲋旦暮成枯人而无志与彼何殊</h4>
+<p align="center"><a title="码农路上" target="_blank" href="https://github.com/289306290/solo-blog"><img src="https://img.shields.io/github/last-commit/289306290/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/289306290/solo-blog"><img src="https://img.shields.io/github/repo-size/289306290/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/289306290/solo-blog.svg"></a></p>
