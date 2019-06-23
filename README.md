@@ -2,7 +2,7 @@
 码农路上
 </h2>
 
-<h4 align="center">涸辙遗鲋旦暮成枯人而无志与彼何殊</h4>
+<h4 align="center">涸辙遗鲋,旦暮成枯,人而无志,与彼何殊</h4>
 <p align="center"><a title="码农路上" target="_blank" href="https://github.com/289306290/solo-blog"><img src="https://img.shields.io/github/last-commit/289306290/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/289306290/solo-blog"><img src="https://img.shields.io/github/repo-size/289306290/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [百度网盘](http://wujingjian.club/articles/2019/06/22/1561217035931.html)
+* [hashCode() 和 equals() 方法 浅谈](http://wujingjian.club/articles/2019/06/22/1561216202718.html)
 * [常用地址](http://wujingjian.club/link)
 * [运行java jar包](http://wujingjian.club/articles/2019/06/18/1560856533198.html)
 * [linux每10秒执行一次](http://wujingjian.club/articles/2019/06/18/1560856511608.html)
@@ -28,6 +30,9 @@
 * [markdown语法入门](http://wujingjian.club/articles/2019/06/18/1560853680431.html)
 * [markdown入门语法](http://wujingjian.club/articles/2019/06/18/1560849897546.html)
 * [redisCluster 5.0 集群搭建](http://wujingjian.club/articles/2019/06/18/1560849236797.html)
+
+### 热门
+
 * [世界，你好！](http://wujingjian.club/hello-solo)
 
 
