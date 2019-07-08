@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java参数传递是值传递还是引用传递？](http://wujingjian.club/articles/2019/07/07/1562509667922.html)
 * [百度网盘](http://wujingjian.club/articles/2019/06/22/1561217035931.html)
 * [hashCode() 和 equals() 方法 浅谈](http://wujingjian.club/articles/2019/06/22/1561216202718.html)
 * [常用地址](http://wujingjian.club/link)
@@ -29,10 +30,10 @@
 * [mysql初始化root密码及远程访问授权](http://wujingjian.club/articles/2019/06/18/1560854711587.html)
 * [markdown语法入门](http://wujingjian.club/articles/2019/06/18/1560853680431.html)
 * [markdown入门语法](http://wujingjian.club/articles/2019/06/18/1560849897546.html)
-* [redisCluster 5.0 集群搭建](http://wujingjian.club/articles/2019/06/18/1560849236797.html)
 
 ### 热门
 
+* [redisCluster 5.0 集群搭建](http://wujingjian.club/articles/2019/06/18/1560849236797.html)
 * [世界，你好！](http://wujingjian.club/hello-solo)
 
 
