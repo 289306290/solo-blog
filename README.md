@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [gitbook](http://wujingjian.club/articles/2019/08/22/1566467977673.html)
 * [okHttp重试](http://wujingjian.club/articles/2019/08/14/1565775066901.html)
 * [python模拟浏览器操作](http://wujingjian.club/articles/2019/07/09/1562661780577.html)
 * [Java参数传递是值传递还是引用传递？](http://wujingjian.club/articles/2019/07/07/1562509667922.html)
@@ -29,10 +30,10 @@
 * [java通过URL下载文件](http://wujingjian.club/articles/2019/06/18/1560855931989.html)
 * [mysql truncate 当表有外键引用时候,报错](http://wujingjian.club/articles/2019/06/18/1560855827098.html)
 * [mysql同一个ip短时间内多次断开连接,被锁定不让连接的问题](http://wujingjian.club/articles/2019/06/18/1560855772857.html)
-* [mysql初始化root密码及远程访问授权](http://wujingjian.club/articles/2019/06/18/1560854711587.html)
 
 ### 热门
 
+* [mysql初始化root密码及远程访问授权](http://wujingjian.club/articles/2019/06/18/1560854711587.html)
 * [redisCluster 5.0 集群搭建](http://wujingjian.club/articles/2019/06/18/1560849236797.html)
 * [markdown语法入门](http://wujingjian.club/articles/2019/06/18/1560853680431.html)
 * [markdown入门语法](http://wujingjian.club/articles/2019/06/18/1560849897546.html)
