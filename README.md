@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [html页面引入外部img图片，提示403的问题](http://wujingjian.club/articles/2019/09/06/1567760233415.html)
 * [springboot打包jar后,运行提示no main manifest attribute, in /.jar](http://wujingjian.club/articles/2019/08/30/1567161519864.html)
 * [gitbook](http://wujingjian.club/articles/2019/08/22/1566467977673.html)
 * [okHttp重试](http://wujingjian.club/articles/2019/08/14/1565775066901.html)
@@ -29,11 +30,11 @@
 * [java配合nginx控制文件下载权限](http://wujingjian.club/articles/2019/06/18/1560856027761.html)
 * [设定方法超时时间](http://wujingjian.club/articles/2019/06/18/1560855973870.html)
 * [java通过URL下载文件](http://wujingjian.club/articles/2019/06/18/1560855931989.html)
-* [mysql truncate 当表有外键引用时候,报错](http://wujingjian.club/articles/2019/06/18/1560855827098.html)
 
 ### 热门
 
 * [mysql初始化root密码及远程访问授权](http://wujingjian.club/articles/2019/06/18/1560854711587.html)
+* [mysql truncate 当表有外键引用时候,报错](http://wujingjian.club/articles/2019/06/18/1560855827098.html)
 * [redisCluster 5.0 集群搭建](http://wujingjian.club/articles/2019/06/18/1560849236797.html)
 * [markdown语法入门](http://wujingjian.club/articles/2019/06/18/1560853680431.html)
 * [mysql同一个ip短时间内多次断开连接,被锁定不让连接的问题](http://wujingjian.club/articles/2019/06/18/1560855772857.html)
